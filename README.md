@@ -1,9 +1,9 @@
-# Hello, I'm [Crazy Tech]! 👋
+# Hello, I'm Crazy Tech! 👋
 
-![Profile views](https://gpvc.arturio.dev/[crazytech69])
+![Profile views](https://gpvc.arturio.dev/crazytech69)
 
 ## 🚀 About Me
-I am a passionate developer specializing in [HTML CSS AND JAVASCRIPT also familiar with REACT JS and TAILWIND CSS]. I love working on [making websites more beautiful] and am always eager to learn new technologies!
+I am a passionate developer specializing in HTML CSS AND JAVASCRIPT also familiar with REACT JS and TAILWIND CSS. I love working on making websites more beautiful and am always eager to learn new technologies!
 
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, HTML, CSS
