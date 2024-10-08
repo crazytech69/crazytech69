@@ -16,9 +16,7 @@ I am a passionate developer specializing in HTML CSS AND JAVASCRIPT also familia
 ## 📫 How to Reach Me
 <a href="https://discord.com/users/820928134886326272/"><img src="https://discord.c99.nl/widget/theme-4/820928134886326272.png"></a>
 <a href="https://discord.gg/devshub"><img src="https://discord.com/api/guilds/1270754908894662656/widget.png?style=banner2"/></a>
-- [Email](mailto:admin@crazydev.xyz)
-- <img src="https://discord.com/api/guilds/1270754908894662656/widget.png?style=banner2"/>
-![Discord Banner 2](https://discord.com/api/guilds/1270754908894662656/widget.png?style=banner2)
+[Email](mailto:admin@crazydev.xyz)
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=crazytech69&show_icons=true&theme=radical)
