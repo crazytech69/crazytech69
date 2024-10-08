@@ -18,7 +18,6 @@ I am a passionate developer specializing in HTML CSS AND JAVASCRIPT also familia
 <br>
 <br>
 <a href="https://discord.gg/devshub"><img src="https://discord.com/api/guilds/1270754908894662656/widget.png?style=banner2"/></a>
-- [Email](mailto:admin@crazydev.xyz)
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=crazytech69&show_icons=true&theme=radical)
