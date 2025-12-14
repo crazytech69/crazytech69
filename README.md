@@ -28,5 +28,3 @@ I am a passionate developer specializing in HTML CSS AND JAVASCRIPT also familia
 ## 💬 Ask me about
 - Anything related to coding
 - Tips for how to host discord bots for free
-
-![Profile Banner](https://cdn.discordapp.com/banners/1270754908894662656/e6cce6b7de5fcd285bcab02de62ebc67.webp?size=4096)
