@@ -19,11 +19,9 @@ I am a passionate developer specializing in HTML CSS AND JAVASCRIPT also familia
 <br>
 <a href="https://discord.gg/devshub"><img src="https://discord.com/api/guilds/1270754908894662656/widget.png?style=banner2"/></a>
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=crazytech69&show_icons=true&theme=radical)
-
 ## ✨ Featured Projects
-- Not Currently working on any public projects
+- paradox discord bot
+- you can view it at [here](https://top.gg/bot/1249272176771600406)
 
 ## 💬 Ask me about
 - Anything related to coding
